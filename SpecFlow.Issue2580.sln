@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecFlow.Issue2580", "SpecFlow.Issue2580\SpecFlow.Issue2580.csproj", "{4DD46C57-1F8F-4221-B140-5AB484926F64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api", "Api\Api.csproj", "{F592AAD7-98C4-4879-8943-0EBAB7936140}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DD46C57-1F8F-4221-B140-5AB484926F64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DD46C57-1F8F-4221-B140-5AB484926F64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DD46C57-1F8F-4221-B140-5AB484926F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DD46C57-1F8F-4221-B140-5AB484926F64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F592AAD7-98C4-4879-8943-0EBAB7936140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F592AAD7-98C4-4879-8943-0EBAB7936140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F592AAD7-98C4-4879-8943-0EBAB7936140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F592AAD7-98C4-4879-8943-0EBAB7936140}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
